@@ -2,10 +2,10 @@
 Gadgets developed during my UROP intern
 
 ## Gadget 1: EXCEL Code to Readble code Converter
-File: 'Readable Code Generator.ipynb'\
-How to use: Use the function theFinalConverter(...str) ONLY\
-Examples:\
-Input:\
+**File:** 'Readable Code Generator.ipynb'\
+**How to use:** Use the function theFinalConverter(...str) ONLY\
+**Examples:**\
+**Input:**
 ```
 # EXCEL CODE:
 # '12gly25-21_5wt_7525'
@@ -28,7 +28,7 @@ theFinalConverter('12-21DMSO_5wt_7525')
 theFinalConverter('22(12)-21_7wt_7525')
 ```
 \
-Output:
+**Output:**
 ```
 Your input: 12gly25-21_5wt_7525
 Readable code: C-112, L-Kraft, 5 wt.%, 75:25, Glycerol(25 wt.%);
